@@ -1,10 +1,12 @@
 # Project_Tic_Tac_Toe
 TIC - TAC - TOE
+
 BY: Mishika Agarwal, Aayushi Nasa, Tanishq, Pushpangi, Bhumika
 
 Tic Tac Toe Ultimate Edition is a console-based game developed using the C programming language. It offers two modes: Two Player Mode and Play Against Computer Mode. Players take turns marking X and O on a 3×3 grid, aiming to complete a horizontal, vertical, or diagonal line. The game automatically detects winners and draws, maintains a scoreboard, and allows users to play multiple matches
 
 "Features Implemented"
+
 Two Player Mode – Allows two players to play against each other. 
 Computer Mode – Allows a player to play against the computer. 
 Interactive Game Menu – Provides options to select game modes, view scores, and exit. 
