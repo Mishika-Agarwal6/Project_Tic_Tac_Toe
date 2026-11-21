@@ -24,7 +24,9 @@ Replay Option – Allows users to return to the main menu and play again.
 3. Compile the program using: 
 gcc tic_tac_toe.c -o game 
 4. Run the program using: 
-./game 
+./game
+
 For Windows, use: 
 game.exe 
+
 Make sure GCC compiler is installed and configured before compiling
